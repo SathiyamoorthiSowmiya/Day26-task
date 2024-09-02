@@ -3,8 +3,9 @@ body {
 }
 
 .pricing {
-  display: flex;
+  display:flex;
   justify-content: center;
+  align-items: center ;
   gap: 20px;
   background: #206ee4;
   padding: 20px;
